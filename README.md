@@ -1,5 +1,5 @@
 # Minecraft-black-block-destroyer
-Pretty useless but cool I guess. Destroys all the black blocks in a 20x20 arena.
+Pretty useless but cool I guess. Destroys all the black blocks in a 20x20 arena. The thing I most proud with this code is the function that I made to calculate the distance of a block using the y-cordinate from your own computer screen. Everything else is pretty basic I would say. Cool mini-project regardless.
 
 What libraries you need:
 pip install pyautogui
